@@ -31,4 +31,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pasachiya/travel-agency.git
+   git clone https://github.com/pramod5728/Travel_Agency_Website.git
